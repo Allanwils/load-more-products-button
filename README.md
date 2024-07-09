@@ -1,8 +1,11 @@
-# React + Vite
+# load-more-products-button
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a basic application ( a button) that enables a user to load more data / pages of images of interest.
 
-Currently, two official plugins are available:
+We always encounter this functionality on virtually every site on the internet. It can be for shopping, or even just a photo gallery
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This application is made used react, vanilla JS and CSS.
+
+You can view this application from this link:
+
+https://load-more-products-button.netlify.app
